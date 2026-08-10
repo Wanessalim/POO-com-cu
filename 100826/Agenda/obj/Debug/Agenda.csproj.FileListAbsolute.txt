@@ -1,0 +1,8 @@
+D:\NessinhaPOO\100826\Agenda\obj\Debug\Agenda.csproj.AssemblyReference.cache
+D:\NessinhaPOO\100826\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+D:\NessinhaPOO\100826\Agenda\bin\Debug\Agenda.exe.config
+D:\NessinhaPOO\100826\Agenda\bin\Debug\Agenda.exe
+D:\NessinhaPOO\100826\Agenda\bin\Debug\Agenda.pdb
+D:\NessinhaPOO\100826\Agenda\obj\Debug\Agenda.exe
+D:\NessinhaPOO\100826\Agenda\obj\Debug\Agenda.pdb
+D:\NessinhaPOO\100826\Agenda\obj\Debug\Agenda.exe.config
