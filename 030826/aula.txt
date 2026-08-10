@@ -1,0 +1,196 @@
+03/08/2026
+Fazer menu de cadastro, consulta e etc.
+static - em poo, lembra do ponteiro -- usa new no lugar do malloc
+EM POO TODA MEMORIA TÊM QUE SER ALOCADA, menos variaveis de tipos primitivos dentro de classes
+todo metodo tera static, pois ele aloca memoria pro metodo.
+todos os mains são estaticos.
+
+namespace Agenda
+{
+    internal class Agenda
+    {
+        static void Main(string[] args) //usar static em relação as funções de classe== Metodo
+        {
+            Console.WriteLine("Hello, World!"); // Cout, comando de saida
+        }
+    }
+}
+
+ponto representa varias entradas, subrelacionadas a outras coisas
+ReadLine - Comando de leitura
+!!variavel sempre dentro de metodo e classe
+args -- passa parametros pro main.
+
+readline só le texto - se for ler numero ou boolean, devemos converter 
+readkey == system pause
+parse -- converte um texto de string para outro tipo de dado.
+
+
+codigo1 -  2 primeiras aulas
+namespace Agenda
+{
+    internal class Agenda
+    {
+        static void Main(string[] args)
+        {
+            double Num = 2026; //numero
+            string Nome; // Palavras, char
+            double NumeroInteiro; 
+            bool RialorrFaikie; 
+            Console.Write("Digite um numero: ");
+            //Num = System.Int32.Parse (Console.ReadLine());
+            Num = Convert.ToInt32(Console.ReadLine());
+            //Num = double.Parse(Console.ReadLine());
+
+            Console.Write("Numero digitado: " + Num);
+          
+        }
+    }
+}
+codigo 2 - if else
+
+static void Main(string[] args)
+{
+    int X;
+    X = System.Int32.Parse(Console.ReadLine());
+    if (X <= 100)
+    {
+        Console.WriteLine("1 Centena");
+    }
+    else
+    {
+        Console.WriteLine("2 centena");
+    }
+  
+}
+
+ou com switch case
+                case 1.3:
+                case 1.4:
+
+
+    static void Main(string[] args)
+    {
+        double D = 1;
+        char C = 'A';
+        switch (C)
+        {
+            case 'A':
+            case 'a':
+                break;
+
+            default:
+                break;
+        }
+      
+    }
+na linguagem nenhuma variavel é global
+
+
+!!!! to com sono
+using System;
+
+namespace Agenda
+{
+    internal class Agenda
+    {
+        struct Contato //conjunto de dados relacionado a uma entidade (Contato)
+        {
+            public string Nome;
+            public int Idade;
+        }
+
+        void Teste(Contato[] C)
+        {
+            C[].
+        }
+        static void Main(string[] args)
+        {
+            Contato[] Ag = new Contato[3]; //declaração de vetor
+            Ag[0] = new Contato;
+
+
+        }
+    }
+}
+todo metodo tem static, e toda estrutrua têm variaveis publicas.
+no c# tudo têm new
+
+using System;
+
+namespace Agenda
+{
+    internal class Agenda
+    {
+        struct Contato //conjunto de dados relacionado a uma entidade (Contato)
+        {
+            public string Nome;
+            public int Idade;
+        }
+
+        static void Menu(Contato[] Ag, ref int Tam)
+        {
+            int Op;
+            do
+            {
+                Console.Clear();//limpa tela
+                Console.WriteLine("*****Agenda de Contatos*****");
+                Console.WriteLine();
+
+                Console.WriteLine("1 - para cadastrar");
+                Console.WriteLine("2 - Para Imprimir");
+                Console.WriteLine("3 - Para Sair");
+                Console.Write("Opção desejada: ");
+                Op = System.Int32.Parse(Console.ReadLine());
+                switch (Op)
+                {
+                    case 1:
+                        Cadastrar(Ag, ref Tam);
+                        break;
+                    case 2:
+                        Imprimir(Ag, Tam);
+                        break;
+                    case 3:
+                        break;
+                    default:
+                        Console.WriteLine("Opção Invalida!!");
+                        break;
+                }
+
+                Console.ReadKey(); //espera resposta
+            } while (Op != 3);
+        }
+
+        static int Cadastrar(Contato[] Ag, ref int  Tam)
+        {
+            Console.Write("Nome: ");
+            Ag[Tam].Nome = Console.ReadLine();
+            Console.Write("Idade:");
+            Ag[Tam].Idade = System.Int32.Parse(Console.ReadLine());
+            Console.WriteLine();
+            Tam++;
+            return Tam;
+        }
+
+        static void Imprimir(Contato[] Ag,  int Tam)
+        {
+            int Cont;
+            for(Cont = 0; Cont < Tam; Cont++)
+            {
+                Console.WriteLine("Nome: " + Ag[Cont].Nome);
+                Console.WriteLine("Idade: " + Ag[Cont].Idade);
+                Console.WriteLine();
+            };
+                
+        }
+
+        static void Main(string[] args)
+        {
+            Contato[] Ag = new Contato[50]; //declaração de vetor
+            int Tam = 0;
+
+            Menu(Ag, ref Tam);
+            Console.WriteLine("\nTam: " + Tam);
+        }
+    }
+}

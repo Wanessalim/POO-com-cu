@@ -1,0 +1,14 @@
+D:\NessinhaPOO\030826\aula\Agenda\obj\Debug\net8.0\Agenda.GeneratedMSBuildEditorConfig.editorconfig
+D:\NessinhaPOO\030826\aula\Agenda\obj\Debug\net8.0\Agenda.AssemblyInfoInputs.cache
+D:\NessinhaPOO\030826\aula\Agenda\obj\Debug\net8.0\Agenda.AssemblyInfo.cs
+D:\NessinhaPOO\030826\aula\Agenda\obj\Debug\net8.0\Agenda.csproj.CoreCompileInputs.cache
+D:\NessinhaPOO\030826\aula\Agenda\bin\Debug\net8.0\Agenda.exe
+D:\NessinhaPOO\030826\aula\Agenda\bin\Debug\net8.0\Agenda.deps.json
+D:\NessinhaPOO\030826\aula\Agenda\bin\Debug\net8.0\Agenda.runtimeconfig.json
+D:\NessinhaPOO\030826\aula\Agenda\bin\Debug\net8.0\Agenda.dll
+D:\NessinhaPOO\030826\aula\Agenda\bin\Debug\net8.0\Agenda.pdb
+D:\NessinhaPOO\030826\aula\Agenda\obj\Debug\net8.0\Agenda.dll
+D:\NessinhaPOO\030826\aula\Agenda\obj\Debug\net8.0\refint\Agenda.dll
+D:\NessinhaPOO\030826\aula\Agenda\obj\Debug\net8.0\Agenda.pdb
+D:\NessinhaPOO\030826\aula\Agenda\obj\Debug\net8.0\Agenda.genruntimeconfig.cache
+D:\NessinhaPOO\030826\aula\Agenda\obj\Debug\net8.0\ref\Agenda.dll
