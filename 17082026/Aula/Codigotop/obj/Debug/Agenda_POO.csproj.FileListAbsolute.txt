@@ -1,0 +1,8 @@
+D:\NessinhaPOO\17082026\Aula\Codigotop\bin\Debug\Codigotop.exe.config
+D:\NessinhaPOO\17082026\Aula\Codigotop\bin\Debug\Codigotop.exe
+D:\NessinhaPOO\17082026\Aula\Codigotop\bin\Debug\Codigotop.pdb
+D:\NessinhaPOO\17082026\Aula\Codigotop\obj\Debug\Agenda_POO.csproj.AssemblyReference.cache
+D:\NessinhaPOO\17082026\Aula\Codigotop\obj\Debug\Agenda_POO.csproj.CoreCompileInputs.cache
+D:\NessinhaPOO\17082026\Aula\Codigotop\obj\Debug\Codigotop.exe
+D:\NessinhaPOO\17082026\Aula\Codigotop\obj\Debug\Codigotop.pdb
+D:\NessinhaPOO\17082026\Aula\Codigotop\obj\Debug\Codigotop.exe.config

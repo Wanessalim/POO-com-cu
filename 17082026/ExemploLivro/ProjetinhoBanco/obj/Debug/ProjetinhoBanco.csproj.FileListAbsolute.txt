@@ -1,0 +1,8 @@
+D:\NessinhaPOO\17082026\ExemploLivro\ProjetinhoBanco\bin\Debug\ProjetinhoBanco.exe.config
+D:\NessinhaPOO\17082026\ExemploLivro\ProjetinhoBanco\bin\Debug\ProjetinhoBanco.exe
+D:\NessinhaPOO\17082026\ExemploLivro\ProjetinhoBanco\bin\Debug\ProjetinhoBanco.pdb
+D:\NessinhaPOO\17082026\ExemploLivro\ProjetinhoBanco\obj\Debug\ProjetinhoBanco.csproj.AssemblyReference.cache
+D:\NessinhaPOO\17082026\ExemploLivro\ProjetinhoBanco\obj\Debug\ProjetinhoBanco.csproj.CoreCompileInputs.cache
+D:\NessinhaPOO\17082026\ExemploLivro\ProjetinhoBanco\obj\Debug\ProjetinhoBanco.exe
+D:\NessinhaPOO\17082026\ExemploLivro\ProjetinhoBanco\obj\Debug\ProjetinhoBanco.pdb
+D:\NessinhaPOO\17082026\ExemploLivro\ProjetinhoBanco\obj\Debug\ProjetinhoBanco.exe.config
