@@ -1,0 +1,7 @@
+C:\Users\Camila\Documents\programação\cu\ListaDeExercicioPOO\Dominio Escola\bin\Debug\Dominio Escola.exe.config
+C:\Users\Camila\Documents\programação\cu\ListaDeExercicioPOO\Dominio Escola\bin\Debug\Dominio Escola.exe
+C:\Users\Camila\Documents\programação\cu\ListaDeExercicioPOO\Dominio Escola\bin\Debug\Dominio Escola.pdb
+C:\Users\Camila\Documents\programação\cu\ListaDeExercicioPOO\Dominio Escola\obj\Debug\Dominio Escola.csproj.AssemblyReference.cache
+C:\Users\Camila\Documents\programação\cu\ListaDeExercicioPOO\Dominio Escola\obj\Debug\Dominio Escola.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Documents\programação\cu\ListaDeExercicioPOO\Dominio Escola\obj\Debug\Dominio Escola.exe
+C:\Users\Camila\Documents\programação\cu\ListaDeExercicioPOO\Dominio Escola\obj\Debug\Dominio Escola.pdb
