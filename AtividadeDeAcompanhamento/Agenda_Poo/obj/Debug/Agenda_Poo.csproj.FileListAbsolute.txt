@@ -1,0 +1,7 @@
+C:\Users\Camila\Documents\programação\cu\AtividadeDeAcompanhamento\Agenda_Poo\bin\Debug\Agenda_Poo.exe.config
+C:\Users\Camila\Documents\programação\cu\AtividadeDeAcompanhamento\Agenda_Poo\bin\Debug\Agenda_Poo.exe
+C:\Users\Camila\Documents\programação\cu\AtividadeDeAcompanhamento\Agenda_Poo\bin\Debug\Agenda_Poo.pdb
+C:\Users\Camila\Documents\programação\cu\AtividadeDeAcompanhamento\Agenda_Poo\obj\Debug\Agenda_Poo.csproj.AssemblyReference.cache
+C:\Users\Camila\Documents\programação\cu\AtividadeDeAcompanhamento\Agenda_Poo\obj\Debug\Agenda_Poo.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Documents\programação\cu\AtividadeDeAcompanhamento\Agenda_Poo\obj\Debug\Agenda_Poo.exe
+C:\Users\Camila\Documents\programação\cu\AtividadeDeAcompanhamento\Agenda_Poo\obj\Debug\Agenda_Poo.pdb
