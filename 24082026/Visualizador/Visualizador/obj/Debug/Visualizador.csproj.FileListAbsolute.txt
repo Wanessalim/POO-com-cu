@@ -1,0 +1,10 @@
+C:\Users\Camila\Documents\programação\cu\24082026\Visualizador\Visualizador\bin\Debug\Visualizador.exe.config
+C:\Users\Camila\Documents\programação\cu\24082026\Visualizador\Visualizador\bin\Debug\Visualizador.exe
+C:\Users\Camila\Documents\programação\cu\24082026\Visualizador\Visualizador\bin\Debug\Visualizador.pdb
+C:\Users\Camila\Documents\programação\cu\24082026\Visualizador\Visualizador\obj\Debug\Visualizador.csproj.AssemblyReference.cache
+C:\Users\Camila\Documents\programação\cu\24082026\Visualizador\Visualizador\obj\Debug\Visualizador.Vizualizador_ebaa.resources
+C:\Users\Camila\Documents\programação\cu\24082026\Visualizador\Visualizador\obj\Debug\Visualizador.Properties.Resources.resources
+C:\Users\Camila\Documents\programação\cu\24082026\Visualizador\Visualizador\obj\Debug\Visualizador.csproj.GenerateResource.cache
+C:\Users\Camila\Documents\programação\cu\24082026\Visualizador\Visualizador\obj\Debug\Visualizador.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Documents\programação\cu\24082026\Visualizador\Visualizador\obj\Debug\Visualizador.exe
+C:\Users\Camila\Documents\programação\cu\24082026\Visualizador\Visualizador\obj\Debug\Visualizador.pdb
