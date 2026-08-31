@@ -1,0 +1,11 @@
+C:\Users\Camila\Documents\programação\cu\horasdeC\Visualizador\Visualizador\bin\Debug\Visualizador.exe.config
+C:\Users\Camila\Documents\programação\cu\horasdeC\Visualizador\Visualizador\bin\Debug\Visualizador.exe
+C:\Users\Camila\Documents\programação\cu\horasdeC\Visualizador\Visualizador\bin\Debug\Visualizador.pdb
+C:\Users\Camila\Documents\programação\cu\horasdeC\Visualizador\Visualizador\obj\Debug\Visualizador.csproj.AssemblyReference.cache
+C:\Users\Camila\Documents\programação\cu\horasdeC\Visualizador\Visualizador\obj\Debug\Visualizador.Visualizador.resources
+C:\Users\Camila\Documents\programação\cu\horasdeC\Visualizador\Visualizador\obj\Debug\Visualizador.Properties.Resources.resources
+C:\Users\Camila\Documents\programação\cu\horasdeC\Visualizador\Visualizador\obj\Debug\Visualizador.csproj.GenerateResource.cache
+C:\Users\Camila\Documents\programação\cu\horasdeC\Visualizador\Visualizador\obj\Debug\Visualizador.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Documents\programação\cu\horasdeC\Visualizador\Visualizador\obj\Debug\Visualizador.exe
+C:\Users\Camila\Documents\programação\cu\horasdeC\Visualizador\Visualizador\obj\Debug\Visualizador.pdb
+C:\Users\Camila\Documents\programação\cu\horasdeC\Visualizador\Visualizador\obj\Debug\Visualizador.OpcoesForm.resources
