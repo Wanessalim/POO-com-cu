@@ -1,0 +1,11 @@
+D:\NessinhaPOO\31082026\ContaApp\ContaApp\bin\Debug\ContaApp.exe.config
+D:\NessinhaPOO\31082026\ContaApp\ContaApp\bin\Debug\ContaApp.exe
+D:\NessinhaPOO\31082026\ContaApp\ContaApp\bin\Debug\ContaApp.pdb
+D:\NessinhaPOO\31082026\ContaApp\ContaApp\obj\Debug\ContaApp.csproj.AssemblyReference.cache
+D:\NessinhaPOO\31082026\ContaApp\ContaApp\obj\Debug\ContaApp.ContaAPP.resources
+D:\NessinhaPOO\31082026\ContaApp\ContaApp\obj\Debug\ContaApp.Properties.Resources.resources
+D:\NessinhaPOO\31082026\ContaApp\ContaApp\obj\Debug\ContaApp.csproj.GenerateResource.cache
+D:\NessinhaPOO\31082026\ContaApp\ContaApp\obj\Debug\ContaApp.csproj.CoreCompileInputs.cache
+D:\NessinhaPOO\31082026\ContaApp\ContaApp\obj\Debug\ContaApp.exe
+D:\NessinhaPOO\31082026\ContaApp\ContaApp\obj\Debug\ContaApp.pdb
+D:\NessinhaPOO\31082026\ContaApp\ContaApp\obj\Debug\ContaApp.exe.config
