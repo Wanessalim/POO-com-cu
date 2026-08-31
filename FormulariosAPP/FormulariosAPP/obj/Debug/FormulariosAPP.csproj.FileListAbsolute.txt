@@ -1,0 +1,11 @@
+D:\NessinhaPOO\atividadeAcomp3108\FormulariosAPP\FormulariosAPP\obj\Debug\FormulariosAPP.csproj.AssemblyReference.cache
+D:\NessinhaPOO\atividadeAcomp3108\FormulariosAPP\FormulariosAPP\obj\Debug\FormulariosAPP.FormulariosAplicativo.resources
+D:\NessinhaPOO\atividadeAcomp3108\FormulariosAPP\FormulariosAPP\obj\Debug\FormulariosAPP.Properties.Resources.resources
+D:\NessinhaPOO\atividadeAcomp3108\FormulariosAPP\FormulariosAPP\obj\Debug\FormulariosAPP.csproj.GenerateResource.cache
+D:\NessinhaPOO\atividadeAcomp3108\FormulariosAPP\FormulariosAPP\obj\Debug\FormulariosAPP.csproj.CoreCompileInputs.cache
+D:\NessinhaPOO\atividadeAcomp3108\FormulariosAPP\FormulariosAPP\bin\Debug\FormulariosAPP.exe.config
+D:\NessinhaPOO\atividadeAcomp3108\FormulariosAPP\FormulariosAPP\bin\Debug\FormulariosAPP.exe
+D:\NessinhaPOO\atividadeAcomp3108\FormulariosAPP\FormulariosAPP\bin\Debug\FormulariosAPP.pdb
+D:\NessinhaPOO\atividadeAcomp3108\FormulariosAPP\FormulariosAPP\obj\Debug\FormulariosAPP.exe
+D:\NessinhaPOO\atividadeAcomp3108\FormulariosAPP\FormulariosAPP\obj\Debug\FormulariosAPP.pdb
+D:\NessinhaPOO\atividadeAcomp3108\FormulariosAPP\FormulariosAPP\obj\Debug\FormulariosAPP.exe.config
