@@ -1,0 +1,8 @@
+D:\NessinhaPOO\05102026\Herança0510\bin\Debug\Herança0510.exe.config
+D:\NessinhaPOO\05102026\Herança0510\bin\Debug\Herança0510.exe
+D:\NessinhaPOO\05102026\Herança0510\bin\Debug\Herança0510.pdb
+D:\NessinhaPOO\05102026\Herança0510\obj\Debug\Herança0510.csproj.AssemblyReference.cache
+D:\NessinhaPOO\05102026\Herança0510\obj\Debug\Herança0510.csproj.CoreCompileInputs.cache
+D:\NessinhaPOO\05102026\Herança0510\obj\Debug\Herança0510.exe
+D:\NessinhaPOO\05102026\Herança0510\obj\Debug\Herança0510.pdb
+D:\NessinhaPOO\05102026\Herança0510\obj\Debug\Herança0510.exe.config

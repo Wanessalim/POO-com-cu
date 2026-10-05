@@ -1,0 +1,12 @@
+D:\NessinhaPOO\05102026\Herancaformulario\HerancaForm\HerancaForm\bin\Debug\HerancaForm.exe.config
+D:\NessinhaPOO\05102026\Herancaformulario\HerancaForm\HerancaForm\bin\Debug\HerancaForm.exe
+D:\NessinhaPOO\05102026\Herancaformulario\HerancaForm\HerancaForm\bin\Debug\HerancaForm.pdb
+D:\NessinhaPOO\05102026\Herancaformulario\HerancaForm\HerancaForm\obj\Debug\HerancaForm.csproj.AssemblyReference.cache
+D:\NessinhaPOO\05102026\Herancaformulario\HerancaForm\HerancaForm\obj\Debug\HerancaForm.W_Det.resources
+D:\NessinhaPOO\05102026\Herancaformulario\HerancaForm\HerancaForm\obj\Debug\HerancaForm.W_Lista.resources
+D:\NessinhaPOO\05102026\Herancaformulario\HerancaForm\HerancaForm\obj\Debug\HerancaForm.Properties.Resources.resources
+D:\NessinhaPOO\05102026\Herancaformulario\HerancaForm\HerancaForm\obj\Debug\HerancaForm.csproj.GenerateResource.cache
+D:\NessinhaPOO\05102026\Herancaformulario\HerancaForm\HerancaForm\obj\Debug\HerancaForm.csproj.CoreCompileInputs.cache
+D:\NessinhaPOO\05102026\Herancaformulario\HerancaForm\HerancaForm\obj\Debug\HerancaForm.exe
+D:\NessinhaPOO\05102026\Herancaformulario\HerancaForm\HerancaForm\obj\Debug\HerancaForm.pdb
+D:\NessinhaPOO\05102026\Herancaformulario\HerancaForm\HerancaForm\obj\Debug\HerancaForm.exe.config
