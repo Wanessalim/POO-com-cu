@@ -1,0 +1,14 @@
+D:\NessinhaPOO\161126 - Classe abstrata & interface\Interface_console\bin\Debug\net9.0\Interface_console.exe
+D:\NessinhaPOO\161126 - Classe abstrata & interface\Interface_console\bin\Debug\net9.0\Interface_console.deps.json
+D:\NessinhaPOO\161126 - Classe abstrata & interface\Interface_console\bin\Debug\net9.0\Interface_console.runtimeconfig.json
+D:\NessinhaPOO\161126 - Classe abstrata & interface\Interface_console\bin\Debug\net9.0\Interface_console.dll
+D:\NessinhaPOO\161126 - Classe abstrata & interface\Interface_console\bin\Debug\net9.0\Interface_console.pdb
+D:\NessinhaPOO\161126 - Classe abstrata & interface\Interface_console\obj\Debug\net9.0\Interface_console.GeneratedMSBuildEditorConfig.editorconfig
+D:\NessinhaPOO\161126 - Classe abstrata & interface\Interface_console\obj\Debug\net9.0\Interface_console.AssemblyInfoInputs.cache
+D:\NessinhaPOO\161126 - Classe abstrata & interface\Interface_console\obj\Debug\net9.0\Interface_console.AssemblyInfo.cs
+D:\NessinhaPOO\161126 - Classe abstrata & interface\Interface_console\obj\Debug\net9.0\Interface_console.csproj.CoreCompileInputs.cache
+D:\NessinhaPOO\161126 - Classe abstrata & interface\Interface_console\obj\Debug\net9.0\Interface_console.dll
+D:\NessinhaPOO\161126 - Classe abstrata & interface\Interface_console\obj\Debug\net9.0\refint\Interface_console.dll
+D:\NessinhaPOO\161126 - Classe abstrata & interface\Interface_console\obj\Debug\net9.0\Interface_console.pdb
+D:\NessinhaPOO\161126 - Classe abstrata & interface\Interface_console\obj\Debug\net9.0\Interface_console.genruntimeconfig.cache
+D:\NessinhaPOO\161126 - Classe abstrata & interface\Interface_console\obj\Debug\net9.0\ref\Interface_console.dll

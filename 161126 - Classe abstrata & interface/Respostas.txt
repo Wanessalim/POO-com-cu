@@ -1,0 +1,22 @@
+1) O que acontece se tentarmos instanciar uma interface?
+
+interface ITributavel
+{
+  double CalculaTributo();
+}
+
+ITributavel t = new ITributavel();
+R: 
+a ) Erro de compilação. Interfaces não tem implementação e, logo, não podem ser instanciadas.
+d ) Uma interface não pode ser instanciada, pois ela não tem código ou atributos. O C# não saberia o que fazer.
+
+2 ) O que acontece ao executar o código abaixo?
+R: Aparece a mensagêm do calculo do tributo: tributo = 1200
+
+3 ) O que acontece com o código abaixo, onde uma classe assina um contrato, mas não implementa o método:
+R: O programa não ira rodar, pois a interface nós obriga a implementar a função. assim como as classes abstratas
+
+4 ) O que acontece ao executarmos o código abaixo?
+R: A classe totalizador de tributos Acumula os tributos enviados a ela, tais tributos são enviados por meio do polimorfismo + interface, pois
+ContaPoupanca e ContaInvestimento são subclasses que repondem a ITributavel. No TotalizadorDeTributos recebemos um ITributavel t, que responde
+a qualquer subclasse de ITributavel. 
